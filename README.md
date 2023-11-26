@@ -1,2 +1,3 @@
 # aap-pred
-Anti-Angiogenic Peptides Predict Approach implemented by Machine Learning
+Anti-Angiogenic Peptides (AAP) Predicting Approach implemented by Machine Learning.
+In this approach, the model is planned to be built with Text-CNN, and classsified by Random Forest.
